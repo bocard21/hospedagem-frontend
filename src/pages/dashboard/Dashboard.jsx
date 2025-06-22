@@ -2,7 +2,7 @@ import Bread from "../../components/bread/Bread";
 
 //Page que é acessada por ADMINISTRADORES, nela é renderizada um dashboard de powerBI por meio do iframe.
 const Dashboard = () => {
-  const iFrame = "https://app.powerbi.com/groups/me/reports/581a9a64-4dab-46eb-ac5d-b20dbda9a1e4/a1bcfa340e83bd87b5b0?experience=power-bi";
+  const iFrame = "https://app.powerbi.com/view?r=eyJrIjoiZTkxYWNlMGMtMGRhNy00OThjLTg0OGUtNDFlMjkxNDMxNjc2IiwidCI6IjJjZjdkNGQ1LWJkMWItNDk1Ni1hY2Y4LTI5OTUzOTliMjE2OCJ9";
 
 
   return (
